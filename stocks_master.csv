@@ -1,0 +1,21 @@
+stock_id,symbol,company,sector,industry,market_cap,recommended_max_pct,default_stop_pct,best_exit_signal
+1,HDFCBANK,HDFC Bank,Banking,IndustryX,3574885310,5,5,price_drop
+2,ICICIBANK,ICICI Bank,Banking,IndustryX,2406604213,5,5,price_drop
+3,SBIN,SBI,Banking,IndustryX,2643774602,5,5,price_drop
+4,RELIANCE,Reliance,Energy,IndustryX,4821673759,5,5,price_drop
+5,TCS,TCS,IT,IndustryX,2544119237,5,5,price_drop
+6,INFY,Infosys,IT,IndustryX,3137755867,5,5,price_drop
+7,WIPRO,Wipro,IT,IndustryX,3344531684,5,5,price_drop
+8,HINDUNILVR,HUL,FMCG,IndustryX,2881590495,5,5,price_drop
+9,ITC,ITC,FMCG,IndustryX,2192562485,5,5,price_drop
+10,TATAMOTORS,Tata Motors,Auto,IndustryX,3485758741,5,5,price_drop
+11,MARUTI,Maruti Suzuki,Auto,IndustryX,2693753222,5,5,price_drop
+12,BAJAJFINSV,Bajaj Finserv,Financial Services,IndustryX,1781039419,5,5,price_drop
+13,HDFCLIFE,HDFC Life,Insurance,IndustryX,1810847587,5,5,price_drop
+14,SUNPHARMA,Sun Pharma,Pharma,IndustryX,1765601345,5,5,price_drop
+15,CIPLA,Cipla,Pharma,IndustryX,1665259309,5,5,price_drop
+16,ASIANPAINT,Asian Paints,Consumer,IndustryX,2000847577,5,5,price_drop
+17,ULTRACEMCO,UltraTech,Cement,IndustryX,1763749431,5,5,price_drop
+18,NTPC,NTPC,Power,IndustryX,1723755486,5,5,price_drop
+19,ONGC,ONGC,Energy,IndustryX,5168798867,5,5,price_drop
+20,ADANIPORTS,Adani Ports,Infra,IndustryX,2583081531,5,5,price_drop

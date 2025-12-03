@@ -1,0 +1,1 @@
+run_id,trade_id,day,segment,timestamp_iso,stock_id,symbol,action,qty,price,trade_value,cash_before,cash_after,position_qty_after,position_avg_price_after,realized_pl

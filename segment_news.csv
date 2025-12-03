@@ -1,0 +1,136 @@
+day,segment,headline,detail
+1,M,Segment M summary Day 1,"1) During the morning segment, the Insurance sector led the move with an average change of 0.74%, supported by active interest in names like HDFCLIFE.
+2) In contrast, the Consumer space lagged with an average move of -1.45%, where stocks such as ASIANPAINT saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Insurance leaders while keeping position size smaller or avoiding fresh entries in weaker Consumer counters until the trend and volumes stabilise."
+1,D,Segment D summary Day 1,"1) During the midday segment, the Infra sector led the move with an average change of 2.43%, supported by active interest in names like ADANIPORTS.
+2) In contrast, the Banking space lagged with an average move of -0.32%, where stocks such as HDFCBANK, ICICIBANK and others saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Infra leaders while keeping position size smaller or avoiding fresh entries in weaker Banking counters until the trend and volumes stabilise."
+1,C,Segment C summary Day 1,"1) During the closing segment, the Infra sector led the move with an average change of 1.44%, supported by active interest in names like ADANIPORTS.
+2) In contrast, the Cement space lagged with an average move of -1.65%, where stocks such as ULTRACEMCO saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Infra leaders while keeping position size smaller or avoiding fresh entries in weaker Cement counters until the trend and volumes stabilise."
+2,M,Segment M summary Day 2,"1) During the morning segment, the Infra sector led the move with an average change of 4.55%, supported by active interest in names like ADANIPORTS.
+2) In contrast, the Financial Services space lagged with an average move of -0.72%, where stocks such as BAJAJFINSV saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Infra leaders while keeping position size smaller or avoiding fresh entries in weaker Financial Services counters until the trend and volumes stabilise."
+2,D,Segment D summary Day 2,"1) During the midday segment, the Consumer sector led the move with an average change of 0.31%, supported by active interest in names like ASIANPAINT.
+2) In contrast, the Infra space lagged with an average move of -3.29%, where stocks such as ADANIPORTS saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Consumer leaders while keeping position size smaller or avoiding fresh entries in weaker Infra counters until the trend and volumes stabilise."
+2,C,Segment C summary Day 2,"1) During the closing segment, the Infra sector led the move with an average change of 8.57%, supported by active interest in names like ADANIPORTS.
+2) In contrast, the Consumer space lagged with an average move of -0.61%, where stocks such as ASIANPAINT saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Infra leaders while keeping position size smaller or avoiding fresh entries in weaker Consumer counters until the trend and volumes stabilise."
+3,M,Segment M summary Day 3,"1) During the morning segment, the Banking sector led the move with an average change of 0.67%, supported by active interest in names like HDFCBANK, ICICIBANK and others.
+2) In contrast, the Consumer space lagged with an average move of -1.31%, where stocks such as ASIANPAINT saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Banking leaders while keeping position size smaller or avoiding fresh entries in weaker Consumer counters until the trend and volumes stabilise."
+3,D,Segment D summary Day 3,"1) During the midday segment, the Cement sector led the move with an average change of 1.41%, supported by active interest in names like ULTRACEMCO.
+2) In contrast, the Infra space lagged with an average move of -5.90%, where stocks such as ADANIPORTS saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Cement leaders while keeping position size smaller or avoiding fresh entries in weaker Infra counters until the trend and volumes stabilise."
+3,C,Segment C summary Day 3,"1) During the closing segment, the Infra sector led the move with an average change of 2.80%, supported by active interest in names like ADANIPORTS.
+2) In contrast, the Consumer space lagged with an average move of -0.50%, where stocks such as ASIANPAINT saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Infra leaders while keeping position size smaller or avoiding fresh entries in weaker Consumer counters until the trend and volumes stabilise."
+4,M,Segment M summary Day 4,"1) During the morning segment, the Infra sector led the move with an average change of 1.61%, supported by active interest in names like ADANIPORTS.
+2) In contrast, the Cement space lagged with an average move of -0.98%, where stocks such as ULTRACEMCO saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Infra leaders while keeping position size smaller or avoiding fresh entries in weaker Cement counters until the trend and volumes stabilise."
+4,D,Segment D summary Day 4,"1) During the midday segment, the Insurance sector led the move with an average change of 0.79%, supported by active interest in names like HDFCLIFE.
+2) In contrast, the Cement space lagged with an average move of -1.42%, where stocks such as ULTRACEMCO saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Insurance leaders while keeping position size smaller or avoiding fresh entries in weaker Cement counters until the trend and volumes stabilise."
+4,C,Segment C summary Day 4,"1) During the closing segment, the Consumer sector led the move with an average change of 1.81%, supported by active interest in names like ASIANPAINT.
+2) In contrast, the Infra space lagged with an average move of -0.99%, where stocks such as ADANIPORTS saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Consumer leaders while keeping position size smaller or avoiding fresh entries in weaker Infra counters until the trend and volumes stabilise."
+5,M,Segment M summary Day 5,"1) During the morning segment, the Infra sector led the move with an average change of 1.78%, supported by active interest in names like ADANIPORTS.
+2) In contrast, the Financial Services space lagged with an average move of -0.89%, where stocks such as BAJAJFINSV saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Infra leaders while keeping position size smaller or avoiding fresh entries in weaker Financial Services counters until the trend and volumes stabilise."
+5,D,Segment D summary Day 5,"1) During the midday segment, the Financial Services sector led the move with an average change of 2.27%, supported by active interest in names like BAJAJFINSV.
+2) In contrast, the Infra space lagged with an average move of -7.79%, where stocks such as ADANIPORTS saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Financial Services leaders while keeping position size smaller or avoiding fresh entries in weaker Infra counters until the trend and volumes stabilise."
+5,C,Segment C summary Day 5,"1) During the closing segment, the Financial Services sector led the move with an average change of 2.06%, supported by active interest in names like BAJAJFINSV.
+2) In contrast, the Banking space lagged with an average move of -0.27%, where stocks such as HDFCBANK, ICICIBANK and others saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Financial Services leaders while keeping position size smaller or avoiding fresh entries in weaker Banking counters until the trend and volumes stabilise."
+6,M,Segment M summary Day 6,"1) During the morning segment, the Infra sector led the move with an average change of 4.84%, supported by active interest in names like ADANIPORTS.
+2) In contrast, the Cement space lagged with an average move of -0.73%, where stocks such as ULTRACEMCO saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Infra leaders while keeping position size smaller or avoiding fresh entries in weaker Cement counters until the trend and volumes stabilise."
+6,D,Segment D summary Day 6,"1) During the midday segment, the Infra sector led the move with an average change of 1.64%, supported by active interest in names like ADANIPORTS.
+2) In contrast, the Financial Services space lagged with an average move of -2.43%, where stocks such as BAJAJFINSV saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Infra leaders while keeping position size smaller or avoiding fresh entries in weaker Financial Services counters until the trend and volumes stabilise."
+6,C,Segment C summary Day 6,"1) During the closing segment, the Financial Services sector led the move with an average change of 0.86%, supported by active interest in names like BAJAJFINSV.
+2) In contrast, the Infra space lagged with an average move of -2.95%, where stocks such as ADANIPORTS saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Financial Services leaders while keeping position size smaller or avoiding fresh entries in weaker Infra counters until the trend and volumes stabilise."
+7,M,Segment M summary Day 7,"1) During the morning segment, the Consumer sector led the move with an average change of 2.08%, supported by active interest in names like ASIANPAINT.
+2) In contrast, the Infra space lagged with an average move of -6.93%, where stocks such as ADANIPORTS saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Consumer leaders while keeping position size smaller or avoiding fresh entries in weaker Infra counters until the trend and volumes stabilise."
+7,D,Segment D summary Day 7,"1) During the midday segment, the Banking sector led the move with an average change of 0.67%, supported by active interest in names like HDFCBANK, ICICIBANK and others.
+2) In contrast, the Infra space lagged with an average move of -4.45%, where stocks such as ADANIPORTS saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Banking leaders while keeping position size smaller or avoiding fresh entries in weaker Infra counters until the trend and volumes stabilise."
+7,C,Segment C summary Day 7,"1) During the closing segment, the Cement sector led the move with an average change of 1.75%, supported by active interest in names like ULTRACEMCO.
+2) In contrast, the Infra space lagged with an average move of -5.70%, where stocks such as ADANIPORTS saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Cement leaders while keeping position size smaller or avoiding fresh entries in weaker Infra counters until the trend and volumes stabilise."
+8,M,Segment M summary Day 8,"1) During the morning segment, the Cement sector led the move with an average change of 0.78%, supported by active interest in names like ULTRACEMCO.
+2) In contrast, the Infra space lagged with an average move of -3.59%, where stocks such as ADANIPORTS saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Cement leaders while keeping position size smaller or avoiding fresh entries in weaker Infra counters until the trend and volumes stabilise."
+8,D,Segment D summary Day 8,"1) During the midday segment, the Infra sector led the move with an average change of 11.71%, supported by active interest in names like ADANIPORTS.
+2) In contrast, the Insurance space lagged with an average move of -0.52%, where stocks such as HDFCLIFE saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Infra leaders while keeping position size smaller or avoiding fresh entries in weaker Insurance counters until the trend and volumes stabilise."
+8,C,Segment C summary Day 8,"1) During the closing segment, the Pharma sector led the move with an average change of 0.91%, supported by active interest in names like SUNPHARMA and CIPLA.
+2) In contrast, the Infra space lagged with an average move of -6.27%, where stocks such as ADANIPORTS saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Pharma leaders while keeping position size smaller or avoiding fresh entries in weaker Infra counters until the trend and volumes stabilise."
+9,M,Segment M summary Day 9,"1) During the morning segment, the Pharma sector led the move with an average change of 0.98%, supported by active interest in names like SUNPHARMA and CIPLA.
+2) In contrast, the Consumer space lagged with an average move of -0.71%, where stocks such as ASIANPAINT saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Pharma leaders while keeping position size smaller or avoiding fresh entries in weaker Consumer counters until the trend and volumes stabilise."
+9,D,Segment D summary Day 9,"1) During the midday segment, the Infra sector led the move with an average change of 3.15%, supported by active interest in names like ADANIPORTS.
+2) In contrast, the Cement space lagged with an average move of -1.84%, where stocks such as ULTRACEMCO saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Infra leaders while keeping position size smaller or avoiding fresh entries in weaker Cement counters until the trend and volumes stabilise."
+9,C,Segment C summary Day 9,"1) During the closing segment, the Consumer sector led the move with an average change of 0.43%, supported by active interest in names like ASIANPAINT.
+2) In contrast, the Power space lagged with an average move of -0.32%, where stocks such as NTPC saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Consumer leaders while keeping position size smaller or avoiding fresh entries in weaker Power counters until the trend and volumes stabilise."
+10,M,Segment M summary Day 10,"1) During the morning segment, the Cement sector led the move with an average change of 0.82%, supported by active interest in names like ULTRACEMCO.
+2) In contrast, the Infra space lagged with an average move of -4.53%, where stocks such as ADANIPORTS saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Cement leaders while keeping position size smaller or avoiding fresh entries in weaker Infra counters until the trend and volumes stabilise."
+10,D,Segment D summary Day 10,"1) During the midday segment, the Infra sector led the move with an average change of 3.89%, supported by active interest in names like ADANIPORTS.
+2) In contrast, the Financial Services space lagged with an average move of -1.07%, where stocks such as BAJAJFINSV saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Infra leaders while keeping position size smaller or avoiding fresh entries in weaker Financial Services counters until the trend and volumes stabilise."
+10,C,Segment C summary Day 10,"1) During the closing segment, the Financial Services sector led the move with an average change of 1.23%, supported by active interest in names like BAJAJFINSV.
+2) In contrast, the Infra space lagged with an average move of -8.13%, where stocks such as ADANIPORTS saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Financial Services leaders while keeping position size smaller or avoiding fresh entries in weaker Infra counters until the trend and volumes stabilise."
+11,M,Segment M summary Day 11,"1) During the morning segment, the Infra sector led the move with an average change of 10.98%, supported by active interest in names like ADANIPORTS.
+2) In contrast, the Consumer space lagged with an average move of -0.47%, where stocks such as ASIANPAINT saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Infra leaders while keeping position size smaller or avoiding fresh entries in weaker Consumer counters until the trend and volumes stabilise."
+11,D,Segment D summary Day 11,"1) During the midday segment, the Infra sector led the move with an average change of 10.42%, supported by active interest in names like ADANIPORTS.
+2) In contrast, the Consumer space lagged with an average move of -0.74%, where stocks such as ASIANPAINT saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Infra leaders while keeping position size smaller or avoiding fresh entries in weaker Consumer counters until the trend and volumes stabilise."
+11,C,Segment C summary Day 11,"1) During the closing segment, the Financial Services sector led the move with an average change of 0.79%, supported by active interest in names like BAJAJFINSV.
+2) In contrast, the Infra space lagged with an average move of -13.38%, where stocks such as ADANIPORTS saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Financial Services leaders while keeping position size smaller or avoiding fresh entries in weaker Infra counters until the trend and volumes stabilise."
+12,M,Segment M summary Day 12,"1) During the morning segment, the Infra sector led the move with an average change of 5.39%, supported by active interest in names like ADANIPORTS.
+2) In contrast, the Consumer space lagged with an average move of -1.30%, where stocks such as ASIANPAINT saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Infra leaders while keeping position size smaller or avoiding fresh entries in weaker Consumer counters until the trend and volumes stabilise."
+12,D,Segment D summary Day 12,"1) During the midday segment, the Financial Services sector led the move with an average change of 1.59%, supported by active interest in names like BAJAJFINSV.
+2) In contrast, the Infra space lagged with an average move of -9.00%, where stocks such as ADANIPORTS saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Financial Services leaders while keeping position size smaller or avoiding fresh entries in weaker Infra counters until the trend and volumes stabilise."
+12,C,Segment C summary Day 12,"1) During the closing segment, the Infra sector led the move with an average change of 0.62%, supported by active interest in names like ADANIPORTS.
+2) In contrast, the Consumer space lagged with an average move of -1.18%, where stocks such as ASIANPAINT saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Infra leaders while keeping position size smaller or avoiding fresh entries in weaker Consumer counters until the trend and volumes stabilise."
+13,M,Segment M summary Day 13,"1) During the morning segment, the Infra sector led the move with an average change of 14.68%, supported by active interest in names like ADANIPORTS.
+2) In contrast, the Banking space lagged with an average move of -0.59%, where stocks such as HDFCBANK, ICICIBANK and others saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Infra leaders while keeping position size smaller or avoiding fresh entries in weaker Banking counters until the trend and volumes stabilise."
+13,D,Segment D summary Day 13,"1) During the midday segment, the Infra sector led the move with an average change of 2.77%, supported by active interest in names like ADANIPORTS.
+2) In contrast, the Financial Services space lagged with an average move of -0.57%, where stocks such as BAJAJFINSV saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Infra leaders while keeping position size smaller or avoiding fresh entries in weaker Financial Services counters until the trend and volumes stabilise."
+13,C,Segment C summary Day 13,"1) During the closing segment, the Financial Services sector led the move with an average change of 0.92%, supported by active interest in names like BAJAJFINSV.
+2) In contrast, the Infra space lagged with an average move of -4.41%, where stocks such as ADANIPORTS saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Financial Services leaders while keeping position size smaller or avoiding fresh entries in weaker Infra counters until the trend and volumes stabilise."
+14,M,Segment M summary Day 14,"1) During the morning segment, the Cement sector led the move with an average change of 0.89%, supported by active interest in names like ULTRACEMCO.
+2) In contrast, the Infra space lagged with an average move of -8.65%, where stocks such as ADANIPORTS saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Cement leaders while keeping position size smaller or avoiding fresh entries in weaker Infra counters until the trend and volumes stabilise."
+14,D,Segment D summary Day 14,"1) During the midday segment, the Power sector led the move with an average change of 0.70%, supported by active interest in names like NTPC.
+2) In contrast, the Infra space lagged with an average move of -0.93%, where stocks such as ADANIPORTS saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Power leaders while keeping position size smaller or avoiding fresh entries in weaker Infra counters until the trend and volumes stabilise."
+14,C,Segment C summary Day 14,"1) During the closing segment, the Infra sector led the move with an average change of 8.93%, supported by active interest in names like ADANIPORTS.
+2) In contrast, the Banking space lagged with an average move of -0.51%, where stocks such as HDFCBANK, ICICIBANK and others saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Infra leaders while keeping position size smaller or avoiding fresh entries in weaker Banking counters until the trend and volumes stabilise."
+15,M,Segment M summary Day 15,"1) During the morning segment, the Financial Services sector led the move with an average change of 1.03%, supported by active interest in names like BAJAJFINSV.
+2) In contrast, the Infra space lagged with an average move of -4.09%, where stocks such as ADANIPORTS saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Financial Services leaders while keeping position size smaller or avoiding fresh entries in weaker Infra counters until the trend and volumes stabilise."
+15,D,Segment D summary Day 15,"1) During the midday segment, the Consumer sector led the move with an average change of 0.99%, supported by active interest in names like ASIANPAINT.
+2) In contrast, the Infra space lagged with an average move of -9.55%, where stocks such as ADANIPORTS saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Consumer leaders while keeping position size smaller or avoiding fresh entries in weaker Infra counters until the trend and volumes stabilise."
+15,C,Segment C summary Day 15,"1) During the closing segment, the Financial Services sector led the move with an average change of 0.67%, supported by active interest in names like BAJAJFINSV.
+2) In contrast, the Infra space lagged with an average move of -2.74%, where stocks such as ADANIPORTS saw either profit booking or muted follow-through.
+3) Short-term traders may favour momentum setups in Financial Services leaders while keeping position size smaller or avoiding fresh entries in weaker Infra counters until the trend and volumes stabilise."
