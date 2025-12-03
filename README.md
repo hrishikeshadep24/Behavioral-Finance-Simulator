@@ -1,5 +1,10 @@
 Project Title: Behavioral Investment Simulator
+
+
+
 Project Overview
+
+
 A sophisticated C++ stock trading simulator that combines financial market mechanics with behavioral psychology analysis. Unlike traditional simulators that focus only on profits, our platform tracks and analyzes cognitive biases in real-time, providing insights into how emotions influence financial decisions.
 
 Key Features
