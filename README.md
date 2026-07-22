@@ -1,93 +1,209 @@
-Project Title: Behavioral Investment Simulator
+# 📈 Behavioral Investment Simulator
 
+<p align="center">
 
+![C++](https://img.shields.io/badge/C++-17-blue)
+![Finance](https://img.shields.io/badge/Domain-Behavioral%20Finance-success)
+![Simulation](https://img.shields.io/badge/Project-Stock%20Trading-orange)
+![CSV](https://img.shields.io/badge/Data-CSV-red)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
-Project Overview
+</p>
 
+---
 
-A sophisticated C++ stock trading simulator that combines financial market mechanics with behavioral psychology analysis. Unlike traditional simulators that focus only on profits, our platform tracks and analyzes cognitive biases in real-time, providing insights into how emotions influence financial decisions.
+# 📖 Overview
 
-Key Features
-Realistic Market Simulation: Multi-segment trading (Morning/Day/Close) with historical Indian stock data
+Behavioral Investment Simulator is a C++-based stock market simulation platform that combines realistic trading mechanics with behavioral finance analysis. Unlike conventional trading simulators that primarily evaluate financial performance, this system continuously monitors investor actions to identify cognitive biases that influence decision-making.
 
-Behavioral Tracking: Comprehensive logging of trades, research patterns, and portfolio changes
+The simulator provides a safe environment for learning investment strategies while generating detailed behavioral reports that help users understand how emotions and psychology affect trading performance.
 
-Bias Detection: Identifies overconfidence, loss aversion, herding behavior, and confirmation bias
+---
 
-Automated Reporting: Generates detailed behavioral analysis reports
+# ✨ Key Features
 
-Persistent State: Save/resume functionality for longitudinal studies
+- 📈 Historical Stock Market Simulation
+- 💹 Portfolio Management
+- 📰 News-Driven Trading Decisions
+- 🧠 Behavioral Bias Detection
+- 📊 Investor Psychology Analysis
+- 📋 Automated Behavioral Reports
+- 💾 Persistent Portfolio State
+- 📁 CSV-Based Market Data
+- 📉 Multi-Segment Trading Sessions
+- 🎓 Educational Trading Environment
 
-Educational Feedback: Provides actionable insights for improving trading discipline
+---
 
-Technical Highlights
-Language: C++ (C++11/C++17 compatible)
+# 🎯 Behavioral Finance Module
 
-Data Structures: Custom classes for Market, Portfolio, Position, Logger
+The simulator evaluates investor behavior using multiple behavioral finance indicators.
 
-Analysis Engine: BehavioralAnalyzer class with 8+ behavioral metrics
+### Supported Bias Detection
 
-Persistence: CSV-based logging with timestamped records
+- Overconfidence Bias
+- Loss Aversion
+- Confirmation Bias
+- Herding Behaviour
+- Excessive Trading
+- Risk-Taking Behaviour
+- Portfolio Concentration
+- Decision Consistency
 
-Color-Coded UI: ANSI color terminals for intuitive visual feedback
+The generated behavioral report provides personalized insights that encourage disciplined investment practices.
 
-Educational Value
-Demonstrates real-world trading psychology concepts
+---
 
-Provides safe environment for learning investment strategies
+# 📊 Trading Workflow
 
-Enables research on cognitive biases in financial decision-making
+The simulator follows a realistic trading workflow:
 
-Serves as educational tool for behavioral finance courses
+```text
+Load Historical Market Data
+        │
+        ▼
+Display Market Session
+        │
+        ▼
+Read Market News
+        │
+        ▼
+User Executes Trades
+        │
+        ▼
+Portfolio Update
+        │
+        ▼
+Behavior Logging
+        │
+        ▼
+Bias Detection
+        │
+        ▼
+Behavior Report Generation
+```
 
-Applications
-Academic Research: Study trading psychology patterns
+---
 
-Investor Education: Practice trading without financial risk
+# 💹 Market Simulation
 
-Behavioral Studies: Analyze decision-making processes
+The platform simulates multiple trading sessions using historical Indian stock market data.
 
-Finance Curriculum: Supplementary tool for economics/finance courses
+### Trading Segments
 
-Team Contribution
-Market & Portfolio Engine: Abhishek Jadhav
+- Morning Session
+- Day Session
+- Closing Session
 
-Behavioral Analysis & Report Generation: Prem Ashtekar
+Each trading decision influences both portfolio performance and behavioral metrics.
 
-UI/UX & Integration: Abhay Gunjal 
+---
 
-Testing & Documentation: Hrishikesh Adep
+# 🧠 Behavioral Analysis Engine
 
-Files Included
-main.cpp - Complete simulator + analyzer (1030 lines)
+The simulator continuously records:
 
-dataset/ - Historical stock data and news files
+- Buy Decisions
+- Sell Decisions
+- Portfolio Allocation
+- Research Behaviour
+- Trade Frequency
+- Holding Period
+- Profit/Loss Patterns
+- News Reading Activity
 
-runs/ - User session logs and reports
+These observations are used to generate an investor psychology profile.
 
-behavior_report.txt - Sample behavioral analysis output
+---
 
-How to Use
-Run Simulator: ./sim.exe --dataset dataset_indian_15days --run-name mysession
+# 📂 Project Structure
 
-Generate Report: Add --analyze flag after trading
+```text
+Behavioral-Investment-Simulator/
+│
+├── main.cpp
+├── deep.cpp
+│
+├── global_news.csv
+├── stock_history.csv
+├── stocks_master.csv
+├── stock_daily_news.csv
+├── portfolio_state.csv
+├── portfolio_snapshots.csv
+├── segment_news.csv
+├── trades.csv
+├── views.csv
+│
+├── behavior_report.txt
+├── README.md
+└── LICENSE
+```
 
-Review Results: Check behavior_report.txt for detailed analysis
+---
 
-Key Learnings
-Integration of financial algorithms with psychological analysis
+# 🛠 Tech Stack
 
-Real-time behavioral pattern recognition
+### Programming Language
 
-Persistent data architecture for longitudinal studies
+- C++
 
-Educational interface design for complex concepts
+### Standard
 
-Future Enhancements
-Web-based GUI interface
+- C++11
+- C++17 Compatible
 
-Machine learning for predictive behavioral modeling
+### Storage
 
-Multi-user competitive trading
+- CSV Files
 
-Real-time market data integration
+### Core Components
+
+- Market Engine
+- Portfolio Engine
+- Behavioral Analyzer
+- Logger
+- Report Generator
+
+---
+
+# 🚀 How to Run
+
+Compile
+
+```bash
+g++ main.cpp -o simulator
+```
+
+Run
+
+```bash
+./simulator --dataset dataset_indian_15days --run-name mysession
+```
+
+Generate Behavioral Report
+
+```bash
+./simulator --analyze
+```
+
+---
+
+# 📈 Applications
+
+- Behavioral Finance Education
+- Investor Training
+- Academic Research
+- Financial Psychology Studies
+- Stock Market Simulation
+- Decision-Making Analysis
+
+---
+
+# 📈 Future Enhancements
+
+- Machine Learning-Based Bias Prediction
+- Real-Time Stock Market APIs
+- Interactive Dashboard
+- Multi-User Trading Sessions
+-
